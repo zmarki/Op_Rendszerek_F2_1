@@ -1,0 +1,26 @@
+rootxxx0x0xrootx/rootx/bin/bash
+daemonxxx1x1xdaemonx/usr/sbinx/bin/sh
+binxxx2x2xbinx/binx/bin/sh
+sysxxx3x3xsysx/devx/bin/sh
+syncxxx4x65534xsyncx/binx/bin/sync
+gamesxxx5x60xgamesx/usr/gamesx/bin/sh
+manxxx6x12xmanx/var/cache/manx/bin/sh
+lpxxx7x7xlpx/var/spool/lpdx/bin/sh
+mailxxx8x8xmailx/var/mailx/bin/sh
+newsxxx9x9xnewsx/var/spool/newsx/bin/sh
+uucpxxx10x10xuucpx/var/spool/uucpx/bin/sh
+proxyxxx13x13xproxyx/binx/bin/sh
+www-dataxxx33x33xwww-datax/var/wwwx/bin/sh
+backupxxx34x34xbackupx/var/backupsx/bin/sh
+listxxx38x38xMailing List Managerx/var/listx/bin/sh
+ircxxx39x39xircdx/var/run/ircdx/bin/sh
+gnatsxxx41x41xGnats Bug-Reporting System (admin)x/var/lib/gnatsx/bin/sh
+nobodyxxx65534x65534xnobodyx/nonexistentx/bin/sh
+libuuidxxx100x101xx/var/lib/libuuidx/bin/sh
+akosxxx1000x1000xSzabo Akos,,,x/home/akosx/bin/bash
+sshdxxx101x65534xx/var/run/sshdx/usr/sbin/nologin
+proftpdxxx102x65534xx/var/run/proftpdx/bin/false
+ftpxxx103x65534xx/srv/ftpx/bin/false
+ntpxxx104x104xx/home/ntpx/bin/false
+mysqlxxx105x105xMySQL Server,,,x/nonexistentx/bin/false
+muninxxx106x107xx/var/lib/muninx/bin/false
